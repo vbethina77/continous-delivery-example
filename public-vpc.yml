@@ -269,7 +269,7 @@ Resources:
         HttpCode: '200'
       Name: ELBEC2TargetGroup
       Port: 3000
-      Protocol: HTTPS
+      Protocol: HTTP
       # Tags:
         # - Resource Tag
       # TargetGroupAttributes:
